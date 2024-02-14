@@ -383,3 +383,4 @@ pip-selfcheck.json
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,django,python,virtualenv
 
 .jupyter_ystore.db
+data

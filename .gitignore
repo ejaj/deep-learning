@@ -384,3 +384,6 @@ pip-selfcheck.json
 
 .jupyter_ystore.db
 data
+exercises
+group_Curlew
+group_Kakapo
